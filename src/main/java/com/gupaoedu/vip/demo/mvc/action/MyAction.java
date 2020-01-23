@@ -5,6 +5,9 @@ import com.gupaoedu.vip.spring.annotation.Autowried;
 import com.gupaoedu.vip.spring.annotation.Controller;
 import com.gupaoedu.vip.spring.annotation.RequestMapping;
 
+/**
+ * @author Administrator
+ */
 @Controller
 public class MyAction {
 

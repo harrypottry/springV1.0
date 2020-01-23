@@ -66,8 +66,8 @@ public class DispatchServlet extends HttpServlet {
         doAutowired();
 
 
-//        DemoAction action = (DemoAction)beanMap.get("demoAction");
-//        action.query(null,null,"Tom");
+        DemoAction action = (DemoAction)beanMap.get("demoAction");
+        action.query(null,null,"Tom");
 
         //如果是SpringMVC会多设计一个HnandlerMapping
 

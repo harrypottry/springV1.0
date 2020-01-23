@@ -3,6 +3,7 @@ package com.gupaoedu.vip.spring.annotation;
 import java.lang.annotation.*;
 
 /**
+ * @author
  * Created by Tom on 2018/4/18.
  */
 @Target({ElementType.TYPE,ElementType.METHOD})
